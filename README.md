@@ -26,5 +26,4 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Rewrite Module
 - PHP 7.3.8
 - VC_redist.x86.exe
-- MySQL 5.5.62
-- 
+- MySQL 5.5.62 
